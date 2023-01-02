@@ -1,0 +1,27 @@
+{
+  "name": "timelify",
+  "version": "1.0.0",
+  "description": "tell time in different zones",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavyCode/timelify.git"
+  },
+  "keywords": [
+    "time",
+    "timezone",
+    "moment-timezone"
+  ],
+  "author": "davycode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavyCode/timelify/issues"
+  },
+  "homepage": "https://github.com/DavyCode/timelify#readme",
+  "dependencies": {
+    "moment-timezone": "^0.5.40"
+  }
+}
